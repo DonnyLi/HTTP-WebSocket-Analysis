@@ -1,0 +1,22 @@
+{
+  "name": "http-ws-analysis",
+  "version": "1.0.0",
+  "description": "Comparison of performance between sending data through HTTP requests or WebSockets.",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonnyLi/HTTP-WebSocket-Analysis.git"
+  },
+  "author": "Donny Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DonnyLi/HTTP-WebSocket-Analysis/issues"
+  },
+  "homepage": "https://github.com/DonnyLi/HTTP-WebSocket-Analysis#readme",
+  "dependencies": {
+    "ws": "^1.1.1"
+  }
+}
