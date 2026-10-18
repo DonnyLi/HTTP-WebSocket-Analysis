@@ -18,6 +18,6 @@
   "homepage": "https://github.com/DonnyLi/HTTP-WebSocket-Analysis#readme",
   "dependencies": {
     "request": "^2.76.0",
-    "ws": "^1.1.1"
+    "ws": "^8.22.0"
   }
 }
